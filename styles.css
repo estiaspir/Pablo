@@ -12,3 +12,25 @@ body{
     margin: 0.75rem;
 }
 
+button, input{
+    border:1px solid #30025e;
+    font-size: 1.2rem;
+    padding: 0.75rem;
+    border-radius: 0.5rem;
+}
+
+.user{
+    background: #eeeeff;
+    padding: 0.75rem;
+    margin: 0.5rem;
+    border-radius: 0.75rem;
+    width: 66%;
+}
+
+a{
+    text-decoration: none;
+
+}
+ div{
+    margin: 00.75rem;
+ }
