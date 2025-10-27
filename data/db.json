@@ -21,16 +21,6 @@
       "likes": 20
     },
     {
-      "id": "3",
-      "firstName": "Raz",
-      "lastName": "Aspir",
-      "email": "raz@gmail.com",
-      "lat": 29.1,
-      "long": 32.24,
-      "details": "lives in Herzelia, plays the guitar and makes music",
-      "likes": 6
-    },
-    {
       "id": "4",
       "firstName": "Eyal",
       "lastName": "Aspir",
@@ -39,16 +29,6 @@
       "long": 24.24,
       "details": "lives in Tel Aviv, Is an actor",
       "likes": 30
-    },
-    {
-      "id": "3348",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
     },
     {
       "id": "fea2",
@@ -61,107 +41,7 @@
       "details": " To be added"
     },
     {
-      "id": "2e81",
-      "firstName": "Lulu",
-      "lastName": "ddas",
-      "lat": "",
-      "long": "",
-      "email": "lulu@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "5496",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "5bec",
-      "firstName": "ssdsdsds",
-      "lastName": "sdsdsdsd",
-      "lat": "",
-      "long": "",
-      "email": "dsdsd@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "bdbd",
-      "firstName": "123",
-      "lastName": "456",
-      "lat": "",
-      "long": "",
-      "email": "dfdffd@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "1a02",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "b068",
-      "firstName": "dfdgfgf",
-      "lastName": "cvfgfgf",
-      "lat": "",
-      "long": "",
-      "email": "dffddf@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "bc34",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "493a",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "62a1",
-      "firstName": "Esti",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "esti3052018@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
       "id": "7b83",
-      "firstName": "Raz",
-      "lastName": "Aspir",
-      "lat": "",
-      "long": "",
-      "email": "raz@gmail.com",
-      "likes": 0,
-      "details": " To be added"
-    },
-    {
-      "id": "42be",
       "firstName": "Raz",
       "lastName": "Aspir",
       "lat": "",

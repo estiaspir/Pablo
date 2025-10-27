@@ -14,6 +14,15 @@ const renderDetails = async ()=>{
 
 }
 
+        const deletbut = document.querySelector('.but')
+        deletbut.addEventListener('click', async () => {
+  const res = await fetch('http://localhost:3000/USERS/' + id, {
+    method: 'DELETE'
+  });
+            window.location.replace('http://127.0.0.1:5500/Pablo/login.html');
+        })
+
+
 
 
 window.addEventListener('DOMContentLoaded', ()=>{
