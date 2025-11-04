@@ -20,17 +20,34 @@ button, input{
 }
 
 .user{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
     background: #eeeeff;
     padding: 0.75rem;
     margin: 0.5rem;
     border-radius: 0.75rem;
     width: 66%;
+   
 }
 
 a{
+    font-size: 1rem;
+    cursor:pointer;
+    color: #028f9f;
     text-decoration: none;
 
 }
  div{
-    margin: 00.75rem;
+    margin-left: 0.75rem;
+    margin-bottom: 2rem;
+ }
+ 
+ .reg{
+    margin-top:2rem;
+    margin-left: 1.5rem;
+    background: #f1e604;
+    color: #30025e;
+    padding: 0.75rem;
+    border-radius: 0.5rem ;
+    font-size: 1rem
  }
